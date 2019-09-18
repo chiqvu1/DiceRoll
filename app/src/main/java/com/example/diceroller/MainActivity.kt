@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val rollButton: Button = findViewById(R.id.roll_button)
         rollButton.text = "Ready to Rock n Roll"
-        rollButton.setOnClickListener { Toast.makeText(this, "Button clicked", Toast.LENGTH_SHORT).show()}
+        rollButton.setOnClickListener {Toast.makeText(this, "Button clicked"}
     }
 }
