@@ -4,7 +4,7 @@ An Android application that simulates a dice roll.
 
 Submitted by: <Chi Vu>
 
-Time spent: <2 hours>
+Time spent: <3 hours>
 
 ## User Stories
 
@@ -33,7 +33,7 @@ couldn't figure out the fastest way to change the text size in Toast box.
 
 ## License
 
-Copyright 2018 <name>
+Copyright 2018 <Chi Vu>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
