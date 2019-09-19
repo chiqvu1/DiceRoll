@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Dice Roller</string>
     <string name="roll">Roll</string>
+    <string name="roll_the_dice_and_i_will_throw_some_random_fortune_at_you">Roll the dice and I will throw some random fortune at you.</string>
+    <string name="an_image_of_a_dice">an image of a dice</string>
 </resources>

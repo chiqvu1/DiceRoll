@@ -11,23 +11,27 @@
         android:id="@+id/intro"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Roll the dice and I will tell you your fortune.\nThink of its as a magic 8 balls but with only 6 options :)"
+        android:layout_gravity="center"
+        android:text="@string/roll_the_dice_and_i_will_throw_some_random_fortune_at_you"
         android:textSize="20sp"
         android:textStyle="italic"
-        android:layout_gravity="center"/>
+        android:textAlignment="center"/>
 
     <ImageView
         android:id="@+id/dice_image"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:src="@drawable/dice_1"/>
+        android:src="@drawable/dice_1"
+        android:contentDescription="@string/an_image_of_a_dice"/>
+
     <Button
         android:id="@+id/roll_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/roll"
         android:layout_gravity="center"/>
+
 
 
 </LinearLayout>
