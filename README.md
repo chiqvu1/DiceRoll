@@ -2,7 +2,7 @@
 
 An Android application that simulates a dice roll.
 
-Submitted by: <Chi Vu>
+Submitted by: Chi Vu
 
 Time spent: <3 hours>
 
